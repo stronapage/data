@@ -1,0 +1,194 @@
+{
+  "realizacje": {
+    "parameters": [],
+    "items": [
+      {
+        "width": "449",
+        "prefix": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
+        "bulk": "fake",
+        "fileNames": [
+          "1.jpg",
+          "0.jpg",
+          "2.jpg"
+        ],
+        "thumb": 0
+      },
+      {
+        "width": "600",
+        "prefix": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
+        "bulk": "fake",
+        "fileNames": [
+          "3.jpg",
+          "5.jpg"
+        ],
+        "thumb": 0
+      },
+      {
+        "width": "600",
+        "prefix": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
+        "bulk": "fake",
+        "fileNames": [
+          "4.jpg",
+          "6.jpg",
+          "7.jpg",
+          "8.jpg"
+        ],
+        "thumb": 0
+      },
+      {
+        "width": "600",
+        "prefix": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
+        "bulk": "fake",
+        "fileNames": [
+          "9.jpg",
+          "10.jpg",
+          "11.jpg"
+        ],
+        "thumb": 1
+      },
+      {
+        "width": "600",
+        "prefix": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
+        "bulk": "fake",
+        "fileNames": [
+          "12.jpg",
+          "13.jpg",
+          "34.jpg",
+          "14.jpg"
+        ],
+        "thumb": 0
+      },
+      {
+        "width": "600",
+        "prefix": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
+        "bulk": "fake",
+        "fileNames": [
+          "15.jpg",
+          "16.jpg",
+          "17.jpg"
+        ],
+        "thumb": 0
+      },
+      {
+        "width": "600",
+        "prefix": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
+        "bulk": "fake",
+        "fileNames": [
+          "18.jpg",
+          "19.jpg",
+          "20.jpg"
+        ],
+        "thumb": 0
+      },
+      {
+        "width": "600",
+        "prefix": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
+        "bulk": "fake",
+        "fileNames": [
+          "21.jpg",
+          "22.jpg",
+          "23.jpg"
+        ],
+        "thumb": 0
+      },
+      {
+        "width": "600",
+        "prefix": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
+        "bulk": "fake",
+        "fileNames": [
+          "24.jpg",
+          "25.jpg",
+          "26.jpg"
+        ],
+        "thumb": 0
+      },
+      {
+        "width": "600",
+        "prefix": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
+        "bulk": "fake",
+        "fileNames": [
+          "27.jpg",
+          "28.jpg",
+          "29.jpg"
+        ],
+        "thumb": 0
+      }
+    ]
+  },
+  "json-template": {
+    "parameters": [
+      {
+        "temp": "template",
+        "temp2": "template"
+      }
+    ],
+    "items": [
+      {
+        "temp": "template",
+        "temp2": "template"
+      }
+    ]
+  },
+  "intro": {
+    "parameters": [],
+    "items": [
+      {
+        "width": "1100",
+        "prefix": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
+        "bulk": "fake",
+        "fileName": "30.jpg",
+        "gradient": "340deg, rgba(0, 212, 255, 0.2) 0%, rgba(9, 9, 121, 0.4) 47%, rgba(9, 1, 22, 0.9) 100%"
+      },
+      {
+        "width": "1100",
+        "prefix": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
+        "bulk": "fake",
+        "fileName": "31.jpg",
+        "gradient": "340deg, rgba(22, 12, 55, 0.2) 0%, rgba(9, 9, 71, 0.4) 47%, rgba(9, 1, 22, 0.9) 100%"
+      },
+      {
+        "width": "1100",
+        "prefix": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
+        "bulk": "fake",
+        "fileName": "32.jpg",
+        "gradient": "20deg, rgba(0, 212, 255, 0.2) 0%, rgba(9, 9, 121, 0.4) 47%, rgba(9, 1, 22, 0.8) 100%"
+      },
+      {
+        "width": "1100",
+        "prefix": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
+        "bulk": "fake",
+        "fileName": "33.jpg",
+        "gradient": "20deg, rgba(0, 212, 255, 0.2) 0%, rgba(9, 9, 121, 0.4) 47%, rgba(9, 1, 22, 0.8) 100%"
+      }
+    ]
+  },
+  "offer": {
+    "parameters": [],
+    "items": [
+      {
+        "width": "1100",
+        "prefix": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
+        "bulk": "fake",
+        "fileName": "35.jpg"
+      },
+      {
+        "width": "1100",
+        "prefix": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
+        "bulk": "fake",
+        "fileName": "36.jpg"
+      },
+      {
+        "width": "1100",
+        "prefix": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
+        "bulk": "fake",
+        "fileName": "37.jpg"
+      },
+      {
+        "width": "1100",
+        "prefix": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
+        "bulk": "fake",
+        "fileName": "38.jpg"
+      }
+    ]
+  }
+}
