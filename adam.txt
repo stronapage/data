@@ -3,7 +3,7 @@
 		"parameters": [],
 		"items": [
 			{
-				"width": "449",
+				"width": "303",
 				"prefix": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
 				"bulk": "fake",
 				"thumb": "0",
