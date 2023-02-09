@@ -3,8 +3,8 @@
 		"parameters": [],
 		"items": [
 			{
-				"ORDER": "6",
-				"WIDTH": "600",
+				"ORDER": 15,
+				"WIDTH": 700,
 				"PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
 				"BULK": "fake",
 				"THUMBNAIL": 0,
