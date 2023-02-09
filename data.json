@@ -4,7 +4,7 @@
 		"items": [
 			{
 				"ORDER": 0,
-				"WIDTH": 300,
+				"WIDTH": 23,
 				"PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
 				"BULK": "fake",
 				"THUMBNAIL": 0,
