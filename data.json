@@ -106,21 +106,21 @@
 				"BULK": "fake",
 				"THUMBNAIL": 0,
 				"fileNames": [
-					"24.jpg",
-					"25.jpg",
-					"26.jpg"
+					"27.jpg",
+					"28.jpg",
+					"29.jpg"
 				]
 			},
 			{
-				"ORDER": 50,
+				"ORDER": "51",
 				"WIDTH": "600",
 				"PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
 				"BULK": "fake",
 				"THUMBNAIL": 0,
 				"fileNames": [
-					"27.jpg",
-					"28.jpg",
-					"29.jpg"
+					"24.jpg",
+					"25.jpg",
+					"26.jpg"
 				]
 			}
 		]
