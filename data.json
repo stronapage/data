@@ -1,6 +1,6 @@
 {
 	"realizacje": {
-		"parametersX": {"GLOBAL_WIDTH": 222},
+		"parameters": {"GLOBAL_WIDTHx": 222},
 		"items": [
 			{
 				"ORDER": 0,
