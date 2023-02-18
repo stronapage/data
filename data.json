@@ -1,116 +1,64 @@
 {
 	"realizacje": {
 		"parameters": {
-			"GLOBAL_WIDTH": 0
+			"GLOBAL_SUMMARY_WIDTH": 0,
+			"GLOBAL_SLIDER_WIDTH": 0
 		},
 		"items": [
 			{
-				"ORDER": 0,
-				"WIDTH": 23,
-				"PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
-				"BULK": "fake",
-				"THUMBNAIL": 0,
-				"fileNames": [
-					"3.jpg",
-					"5.jpg"
-				]
+				"SERVER": {
+					"PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
+					"BULK": "fake",
+					"fileNames": [
+						"3.jpg",
+						"4.jpg"
+					]
+				},
+				"SUMMARY": {
+					"ORDER": 5,
+					"WIDTH": 523,
+					"THUMBNAIL": 0
+				},
+				"SLIDER": {
+					"WIDTH": 268
+				}
 			},
 			{
-				"ORDER": 1,
-				"WIDTH": "449",
-				"PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
-				"BULK": "fake",
-				"THUMBNAIL": "1",
-				"fileNames": [
-					"11.jpg",
-					"20.jpg",
-					"12.jpg"
-				]
+				"SERVER": {
+					"PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
+					"BULK": "fake",
+					"fileNames": [
+						"7.jpg",
+						"6.jpg",
+						"5.jpg"
+					]
+				},
+				"SUMMARY": {
+					"ORDER": 1,
+					"WIDTH": 623,
+					"THUMBNAIL": 0
+				},
+				"SLIDER": {
+					"WIDTH": 269
+				}
 			},
 			{
-				"ORDER": 2,
-				"WIDTH": "600",
-				"PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
-				"BULK": "fake",
-				"THUMBNAIL": 0,
-				"fileNames": [
-					"15.jpg",
-					"16.jpg",
-					"17.jpg"
-				]
-			},
-			{
-				"ORDER": 3,
-				"WIDTH": "600",
-				"PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
-				"BULK": "fake",
-				"THUMBNAIL": 0,
-				"fileNames": [
-					"4.jpg",
-					"6.jpg",
-					"7.jpg",
-					"8.jpg"
-				]
-			},
-			{
-				"ORDER": 4,
-				"WIDTH": "600",
-				"PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
-				"BULK": "fake",
-				"THUMBNAIL": 0,
-				"fileNames": [
-					"27.jpg",
-					"28.jpg",
-					"29.jpg"
-				]
-			},
-			{
-				"ORDER": 5,
-				"WIDTH": "600",
-				"PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
-				"BULK": "fake",
-				"THUMBNAIL": 0,
-				"fileNames": [
-					"9.jpg",
-					"10.jpg",
-					"11.jpg"
-				]
-			},
-			{
-				"ORDER": 6,
-				"WIDTH": "600",
-				"PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
-				"BULK": "fake",
-				"THUMBNAIL": 0,
-				"fileNames": [
-					"21.jpg",
-					"22.jpg",
-					"23.jpg"
-				]
-			},
-			{
-				"ORDER": 7,
-				"WIDTH": "600",
-				"PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
-				"BULK": "fake",
-				"THUMBNAIL": 0,
-				"fileNames": [
-					"24.jpg",
-					"25.jpg",
-					"26.jpg"
-				]
-			},
-			{
-				"ORDER": 8,
-				"WIDTH": "600",
-				"PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
-				"BULK": "fake",
-				"THUMBNAIL": 0,
-				"fileNames": [
-					"18.jpg",
-					"19.jpg",
-					"20.jpg"
-				]
+				"SERVER": {
+					"PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
+					"BULK": "fake",
+					"fileNames": [
+						"22.jpg",
+						"10.jpg"
+					]
+				},
+				"SUMMARY": {
+					"ORDER": 2,
+					"WIDTH": 723,
+					"THUMBNAIL": 0
+				},
+				"SLIDER": {
+					"WIDTH": 270
+				}
 			}
 		]
 	},
