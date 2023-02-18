@@ -1,8 +1,8 @@
 {
 	"realizacje": {
 		"parameters": {
-			"GLOBAL_SUMMARY_WIDTH": 33,
-			"GLOBAL_SLIDER_WIDTH": 0
+			"GLOBAL_SUMMARY_WIDTH": 434,
+			"GLOBAL_SLIDER_WIDTH": 677
 		},
 		"items": [
 			{
@@ -11,13 +11,14 @@
 					"BULK": "fake",
 					"fileNames": [
 						"3.jpg",
-						"4.jpg"
+						"4.jpg",
+						"5.jpg"
 					]
 				},
 				"SUMMARY": {
 					"ORDER": 5,
 					"WIDTH": 523,
-					"THUMBNAIL": 0
+					"THUMBNAIL": 2
 				},
 				"SLIDER": {
 					"WIDTH": 268
@@ -30,13 +31,13 @@
 					"fileNames": [
 						"7.jpg",
 						"6.jpg",
-						"5.jpg"
+						"14.jpg"
 					]
 				},
 				"SUMMARY": {
 					"ORDER": 1,
 					"WIDTH": 623,
-					"THUMBNAIL": 0
+					"THUMBNAIL": 2
 				},
 				"SLIDER": {
 					"WIDTH": 269
@@ -48,13 +49,14 @@
 					"BULK": "fake",
 					"fileNames": [
 						"22.jpg",
-						"10.jpg"
+						"10.jpg",
+						"11.jpg"
 					]
 				},
 				"SUMMARY": {
 					"ORDER": 2,
 					"WIDTH": 723,
-					"THUMBNAIL": 0
+					"THUMBNAIL": 2
 				},
 				"SLIDER": {
 					"WIDTH": 270
