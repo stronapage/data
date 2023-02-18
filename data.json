@@ -1,8 +1,8 @@
 {
 	"realizacje": {
 		"parameters": {
-			"GLOBAL_SUMMARY_WIDTH": 434,
-			"GLOBAL_SLIDER_WIDTH": 677
+			"GLOBAL_SUMMARY_WIDTH": 0,
+			"GLOBAL_SLIDER_WIDTH": 0
 		},
 		"items": [
 			{
@@ -11,14 +11,15 @@
 					"BULK": "fake",
 					"fileNames": [
 						"3.jpg",
-						"4.jpg",
-						"5.jpg"
+						"4.jpg"
 					]
 				},
 				"SUMMARY": {
 					"ORDER": 5,
 					"WIDTH": 523,
-					"THUMBNAIL": 2
+					"THUMBNAIL": 1,
+					"CAPTION1": "Praesent ut luctus turpis",
+					"CAPTION2": "Quis pulvinar"
 				},
 				"SLIDER": {
 					"WIDTH": 268
@@ -31,13 +32,15 @@
 					"fileNames": [
 						"7.jpg",
 						"6.jpg",
-						"14.jpg"
+						"5.jpg"
 					]
 				},
 				"SUMMARY": {
 					"ORDER": 1,
 					"WIDTH": 623,
-					"THUMBNAIL": 2
+					"THUMBNAIL": 2,
+					"CAPTION1": "Proin a facilisis augue",
+					"CAPTION2": "Nullam quis"
 				},
 				"SLIDER": {
 					"WIDTH": 269
@@ -49,14 +52,15 @@
 					"BULK": "fake",
 					"fileNames": [
 						"22.jpg",
-						"10.jpg",
-						"11.jpg"
+						"10.jpg"
 					]
 				},
 				"SUMMARY": {
 					"ORDER": 2,
 					"WIDTH": 723,
-					"THUMBNAIL": 2
+					"THUMBNAIL": 0,
+					"CAPTION1": "Duis nec tincidunt nibh",
+					"CAPTION2": "Quis posuere"
 				},
 				"SLIDER": {
 					"WIDTH": 270
