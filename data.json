@@ -23,8 +23,8 @@
 	},
 	"realizacje": {
 		"general_data": {
-			"GLOBAL_SUMMARY_IMAGE_WIDTH": 0,
-			"GLOBAL_PARTICULAR_IMAGE_WIDTH": 0
+			"GLOBAL_SUMMARY_IMAGE_WIDTH": 300,
+			"GLOBAL_PARTICULAR_IMAGE_WIDTH": 500
 		},
 		"items": [
 			{
@@ -54,15 +54,15 @@
 					"IMAGE_PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
 					"IMAGE_BULK": "fake",
 					"fileNames": [
-						"5.jpg",
+						"7.jpg",
 						"6.jpg",
-						"7.jpg"
+						"5.jpg"
 					]
 				},
 				"SUMMARY": {
 					"ORDER": 1,
 					"IMAGE_WIDTH": 623,
-					"THUMBNAIL": 0,
+					"THUMBNAIL": 2,
 					"CAPTION1": "Proin a facilisis augue",
 					"CAPTION2": "Nullam quis"
 				},
