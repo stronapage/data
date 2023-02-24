@@ -1,181 +1,254 @@
 {
-	"realizacje": {
-		"parameters": {
-			"GLOBAL_SUMMARY_WIDTH": 0,
-			"GLOBAL_SLIDER_WIDTH": 0
-		},
-		"items": [
-			{
-				"SERVER": {
-					"PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
-					"BULK": "fake",
-					"fileNames": [
-						"7.jpg",
-						"6.jpg",
-						"5.jpg"
-					]
-				},
-				"SUMMARY": {
-					"ORDER": 0,
-					"WIDTH": 623,
-					"THUMBNAIL": 2,
-					"CAPTION1": "Proin a facilisis augue",
-					"CAPTION2": "Nullam quis"
-				},
-				"SLIDER": {
-					"WIDTH": 269
-				}
-			},
-			{
-				"SERVER": {
-					"PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
-					"BULK": "fake",
-					"fileNames": [
-						"3.jpg"
-					]
-				},
-				"SUMMARY": {
-					"ORDER": 1,
-					"WIDTH": 523,
-					"THUMBNAIL": 0,
-					"CAPTION1": "Praesent ut luctus turpisXX",
-					"CAPTION2": "Quis pulvinarYY"
-				},
-				"SLIDER": {
-					"WIDTH": 268
-				}
-			},
-			{
-				"SERVER": {
-					"PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
-					"BULK": "fake",
-					"fileNames": [
-						"4.jpg"
-					]
-				},
-				"SUMMARY": {
-					"ORDER": 2,
-					"WIDTH": 523,
-					"THUMBNAIL": 0,
-					"CAPTION1": "Praesent ut luctus turpisXX",
-					"CAPTION2": "Quis pulvinarYY"
-				},
-				"SLIDER": {
-					"WIDTH": 268
-				}
-			},
-			{
-				"SERVER": {
-					"PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
-					"BULK": "fake",
-					"fileNames": [
-						"22.jpg",
-						"10.jpg"
-					]
-				},
-				"SUMMARY": {
-					"ORDER": 3,
-					"WIDTH": 723,
-					"THUMBNAIL": 0,
-					"CAPTION1": "Duis nec tincidunt nibh",
-					"CAPTION2": "Quis posuere"
-				},
-				"SLIDER": {
-					"WIDTH": 270
-				}
-			}
-		]
-	},
-	"json-template": {
-		"parameters": [
-			{
-				"temp": "template",
-				"temp2": "template"
-			}
-		],
-		"items": [
-			{
-				"temp": "template",
-				"temp2": "template"
-			}
-		]
-	},
-	"intro": {
-		"parameters": [],
-		"items": [
-			{
-				"ORDER": 50,
-				"WIDTH": "1100",
-				"PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
-				"BULK": "fake",
-				"THUMBNAIL": 0,
-				"fileName": "30.jpg",
-				"gradient": "340deg, rgba(0, 212, 255, 0.2) 0%, rgba(9, 9, 121, 0.4) 47%, rgba(9, 1, 22, 0.9) 100%"
-			},
-			{
-				"ORDER": 50,
-				"WIDTH": "1100",
-				"PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
-				"BULK": "fake",
-				"THUMBNAIL": 0,
-				"fileName": "31.jpg",
-				"gradient": "340deg, rgba(22, 12, 55, 0.2) 0%, rgba(9, 9, 71, 0.4) 47%, rgba(9, 1, 22, 0.9) 100%"
-			},
-			{
-				"ORDER": 50,
-				"WIDTH": "1100",
-				"PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
-				"BULK": "fake",
-				"THUMBNAIL": 0,
-				"fileName": "32.jpg",
-				"gradient": "20deg, rgba(0, 212, 255, 0.2) 0%, rgba(9, 9, 121, 0.4) 47%, rgba(9, 1, 22, 0.8) 100%"
-			},
-			{
-				"ORDER": 50,
-				"WIDTH": "1100",
-				"PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
-				"BULK": "fake",
-				"THUMBNAIL": 0,
-				"fileName": "33.jpg",
-				"gradient": "20deg, rgba(0, 212, 255, 0.2) 0%, rgba(9, 9, 121, 0.4) 47%, rgba(9, 1, 22, 0.8) 100%"
-			}
-		]
-	},
-	"offer": {
-		"parameters": [],
-		"items": [
-			{
-				"ORDER": 50,
-				"WIDTH": "1100",
-				"PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
-				"BULK": "fake",
-				"THUMBNAIL": 0,
-				"fileName": "35.jpg"
-			},
-			{
-				"ORDER": 50,
-				"WIDTH": "1100",
-				"PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
-				"BULK": "fake",
-				"THUMBNAIL": 0,
-				"fileName": "36.jpg"
-			},
-			{
-				"ORDER": 50,
-				"WIDTH": "1100",
-				"PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
-				"BULK": "fake",
-				"THUMBNAIL": 0,
-				"fileName": "37.jpg"
-			},
-			{
-				"ORDER": 50,
-				"WIDTH": "1100",
-				"PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
-				"BULK": "fake",
-				"THUMBNAIL": 0,
-				"fileName": "38.jpg"
-			}
-		]
-	}
+  "json-templateOk": {
+    "general_data": {
+      "temp": "template",
+      "temp2": "template"
+    },
+    "items": [
+      {
+        "SERVER": {
+          "temp": "template",
+          "temp2": "template"
+        },
+        "SUMMARY": {
+          "temp": "template",
+          "temp2": "template"
+        },
+        "PARTICULAR": {
+          "temp": "template",
+          "temp2": "template"
+        }
+      }
+    ]
+  },
+  "realizacje": {
+    "general_data": {
+      "GLOBAL_SUMMARY_IMAGE_WIDTH": 0,
+      "GLOBAL_PARTICULAR_IMAGE_WIDTH": 0
+    },
+    "items": [
+      {
+        "SERVER": {
+          "IMAGE_PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
+          "IMAGE_BULK": "fake",
+          "fileNames": [
+            "3.jpg",
+            "4.jpg"
+          ]
+        },
+        "SUMMARY": {
+          "ORDER": 0,
+          "IMAGE_WIDTH": 523,
+          "THUMBNAIL": 1,
+          "CAPTION1": "Praesent ut luctus turpis",
+          "CAPTION2": "Quis pulvinar"
+        },
+        "PARTICULAR": {
+          "IMAGE_WIDTH": 268,
+          "HEADING": "First featurette heading 0",
+          "TEXT": "Some great placeholder content 0 for the first featurette here. Imagine some exciting prose here."
+        }
+      },
+      {
+        "SERVER": {
+          "IMAGE_PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
+          "IMAGE_BULK": "fake",
+          "fileNames": [
+            "7.jpg",
+            "6.jpg",
+            "5.jpg"
+          ]
+        },
+        "SUMMARY": {
+          "ORDER": 1,
+          "IMAGE_WIDTH": 623,
+          "THUMBNAIL": 2,
+          "CAPTION1": "Proin a facilisis augue",
+          "CAPTION2": "Nullam quis"
+        },
+        "PARTICULAR": {
+          "IMAGE_WIDTH": 269,
+          "HEADING": "First featurette heading 1",
+          "TEXT": "Some great placeholder content 1 for the first featurette here. Imagine some exciting prose here."
+        }
+      },
+      {
+        "SERVER": {
+          "IMAGE_PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
+          "IMAGE_BULK": "fake",
+          "fileNames": [
+            "22.jpg",
+            "10.jpg"
+          ]
+        },
+        "SUMMARY": {
+          "ORDER": 2,
+          "IMAGE_WIDTH": 723,
+          "THUMBNAIL": 0,
+          "CAPTION1": "Duis nec tincidunt nibh",
+          "CAPTION2": "Quis posuere"
+        },
+        "PARTICULAR": {
+          "IMAGE_WIDTH": 270,
+          "HEADING": "First featurette heading 2",
+          "TEXT": "Some great placeholder content 2 for the first featurette here. Imagine some exciting prose here."
+        }
+      }
+    ]
+  },
+  "intro": {
+    "general_data": {
+      "GLOBAL_IMAGE_WIDTH": 300
+    },
+    "items": [
+      {
+        "SERVER": {
+          "IMAGE_PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
+          "IMAGE_BULK": "fake",
+          "fileNames": [
+            "30.jpg"
+          ]
+        },
+        "SUMMARY": {
+          "ORDER": 3,
+          "IMAGE_WIDTH": 1100,
+          "CAPTION1": "Duis nec tincidunt nibh",
+          "CAPTION2": "Quis posuere",
+          "GRADIENT": "340deg, rgba(0, 212, 255, 0.2) 0%, rgba(9, 9, 121, 0.4) 47%, rgba(9, 1, 22, 0.9) 100%"
+        }
+      },
+      {
+        "SERVER": {
+          "IMAGE_PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
+          "IMAGE_BULK": "fake",
+          "fileNames": [
+            "31.jpg"
+          ]
+        },
+        "SUMMARY": {
+          "ORDER": 0,
+          "IMAGE_WIDTH": 1100,
+          "CAPTION1": "Duis nec tincidunt nibh",
+          "CAPTION2": "Quis posuere",
+          "GRADIENT": "340deg, rgba(22, 12, 55, 0.2) 0%, rgba(9, 9, 71, 0.4) 47%, rgba(9, 1, 22, 0.9) 100%"
+        }
+      },
+      {
+        "SERVER": {
+          "IMAGE_PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
+          "IMAGE_BULK": "fake",
+          "fileNames": [
+            "32.jpg"
+          ]
+        },
+        "SUMMARY": {
+          "ORDER": 2,
+          "IMAGE_WIDTH": 1100,
+          "CAPTION1": "Duis nec tincidunt nibh",
+          "CAPTION2": "Quis posuere",
+          "GRADIENT": "20deg, rgba(0, 212, 255, 0.2) 0%, rgba(9, 9, 121, 0.4) 47%, rgba(9, 1, 22, 0.8) 100%"
+        }
+      },
+      {
+        "SERVER": {
+          "IMAGE_PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
+          "IMAGE_BULK": "fake",
+          "fileNames": [
+            "33.jpg"
+          ]
+        },
+        "SUMMARY": {
+          "ORDER": 1,
+          "IMAGE_WIDTH": 1100,
+          "CAPTION1": "Duis nec tincidunt nibh",
+          "CAPTION2": "Quis posuere",
+          "GRADIENT": "20deg, rgba(0, 212, 255, 0.2) 0%, rgba(9, 9, 121, 0.4) 47%, rgba(9, 1, 22, 0.8) 100%"
+        }
+      }
+    ]
+  },
+  "about": {
+    "TITLE": "Facilis consequatur elige",
+    "TEXT1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis consequatur eligendi quisquam doloremque vero ex debitis veritatis placeat unde animi laborum sapiente illo possimus, commodi dignissimos obcaecati illum maiores corporis.",
+    "BOLD_TEXT": "Doloremque vero ex debitis veritatis?",
+    "TEXT2": "Lorem ipsum dolor sit amet consectetur architecto magni, dicta maxime laborum temporibus dolorem esse doloremque illo quas nisi enim molestias. Tempore ducimus molestiae in dolore enim.",
+    "IMAGE_WIDTH": 320,
+    "IMAGE_PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
+    "IMAGE_BULK": "fake",
+    "fileName": "100.jpg"
+  },
+  "offer": {
+    "general_data": {
+      "GLOBAL_IMAGE_WIDTH": 320,
+      "TITLE": "Our Services",
+      "TEXT1": "Our Services Range From Initial Design To Deployment Anywhere Anytime",
+      "TEXT2": "Lorem ipsum dolor sit amet consectetur architecto magni, dicta maxime laborum temporibus dolorem esse doloremque illo quas nisi enim molestias. Tempore ducimus molestiae in dolore enim."
+    },
+    "items": [
+      {
+        "SERVER": {
+          "IMAGE_PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
+          "IMAGE_BULK": "fake",
+          "fileNames": [
+            "35.jpg"
+          ]
+        },
+        "SUMMARY": {
+          "ORDER": 50,
+          "IMAGE_WIDTH": "1100",
+          "CAPTION1": "First featurette heading.",
+          "CAPTION2": "It’ll blow your mind.",
+          "TEXT": "Some great placeholder content for the first featurette here. Imagine some exciting prose here."
+        }
+      },
+      {
+        "SERVER": {
+          "IMAGE_PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
+          "IMAGE_BULK": "fake",
+          "fileNames": [
+            "36.jpg"
+          ]
+        },
+        "SUMMARY": {
+          "ORDER": 50,
+          "IMAGE_WIDTH": "1100",
+          "CAPTION1": "First featurette heading.",
+          "CAPTION2": "It’ll blow your mind.",
+          "TEXT": "Some great placeholder content for the first featurette here. Imagine some exciting prose here."
+        }
+      },
+      {
+        "SERVER": {
+          "IMAGE_PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
+          "IMAGE_BULK": "fake",
+          "fileNames": [
+            "37.jpg"
+          ]
+        },
+        "SUMMARY": {
+          "ORDER": 50,
+          "IMAGE_WIDTH": "1100",
+          "CAPTION1": "First featurette heading.",
+          "CAPTION2": "It’ll blow your mind.",
+          "TEXT": "Some great placeholder content for the first featurette here. Imagine some exciting prose here."
+        }
+      },
+      {
+        "SERVER": {
+          "IMAGE_PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
+          "IMAGE_BULK": "fake",
+          "fileNames": [
+            "38.jpg"
+          ]
+        },
+        "SUMMARY": {
+          "ORDER": 50,
+          "IMAGE_WIDTH": "1100",
+          "CAPTION1": "First featurette heading.",
+          "CAPTION2": "It’ll blow your mind.",
+          "TEXT": "Some great placeholder content for the first featurette here. Imagine some exciting prose here."
+        }
+      }
+    ]
+  }
 }
