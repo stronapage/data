@@ -1,26 +1,4 @@
 {
-	"json-templateOk": {
-		"general_data": {
-			"temp": "template",
-			"temp2": "template"
-		},
-		"items": [
-			{
-				"SERVER": {
-					"temp": "template",
-					"temp2": "template"
-				},
-				"SUMMARY": {
-					"temp": "template",
-					"temp2": "template"
-				},
-				"PARTICULAR": {
-					"temp": "template",
-					"temp2": "template"
-				}
-			}
-		]
-	},
 	"realizacje": {
 		"general_data": {
 			"GLOBAL_SUMMARY_IMAGE_WIDTH": 305,
