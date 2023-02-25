@@ -11,13 +11,14 @@
 					"IMAGE_BULK": "fake",
 					"fileNames": [
 						"3.jpg",
-						"4.jpg"
+						"4.jpg",
+						"45.jpg"
 					]
 				},
 				"SUMMARY": {
 					"ORDER": 0,
 					"IMAGE_WIDTH": 523,
-					"THUMBNAIL": 0,
+					"THUMBNAIL": 1,
 					"CAPTION1": "Praesent ut luctus turpis",
 					"CAPTION2": "Quis pulvinar"
 				},
