@@ -24,7 +24,7 @@
 	"realizacje": {
 		"general_data": {
 			"GLOBAL_SUMMARY_IMAGE_WIDTH": 300,
-			"GLOBAL_PARTICULAR_IMAGE_WIDTH": 501
+			"GLOBAL_PARTICULAR_IMAGE_WIDTH": 502
 		},
 		"items": [
 			{
@@ -39,7 +39,7 @@
 				"SUMMARY": {
 					"ORDER": 0,
 					"IMAGE_WIDTH": 523,
-					"THUMBNAIL": 1,
+					"THUMBNAIL": 0,
 					"CAPTION1": "Praesent ut luctus turpis",
 					"CAPTION2": "Quis pulvinar"
 				},
