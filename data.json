@@ -23,7 +23,7 @@
 	},
 	"realizacje": {
 		"general_data": {
-			"GLOBAL_SUMMARY_IMAGE_WIDTH": 300,
+			"GLOBAL_SUMMARY_IMAGE_WIDTH": 301,
 			"GLOBAL_PARTICULAR_IMAGE_WIDTH": 500
 		},
 		"items": [
@@ -39,7 +39,7 @@
 				"SUMMARY": {
 					"ORDER": 0,
 					"IMAGE_WIDTH": 523,
-					"THUMBNAIL": 0,
+					"THUMBNAIL": 1,
 					"CAPTION1": "Praesent ut luctus turpis",
 					"CAPTION2": "Quis pulvinar"
 				},
@@ -244,7 +244,7 @@
 				"SUMMARY": {
 					"ORDER": 50,
 					"IMAGE_WIDTH": "1100",
-					"CAPTION1": "First featurette heading.",
+					"CAPTION1": "First featurette heading.a",
 					"CAPTION2": "It’ll blow your mind.",
 					"TEXT": "Some great placeholder content for the first featurette here. Imagine some exciting prose here."
 				}
