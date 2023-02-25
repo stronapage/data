@@ -1,8 +1,8 @@
 {
 	"realizacje": {
 		"general_data": {
-			"GLOBAL_SUMMARY_IMAGE_WIDTH": 307,
-			"GLOBAL_PARTICULAR_IMAGE_WIDTH": 500
+			"GLOBAL_SUMMARY_IMAGE_WIDTH": 0,
+			"GLOBAL_PARTICULAR_IMAGE_WIDTH": 0
 		},
 		"items": [
 			{
@@ -10,7 +10,7 @@
 					"IMAGE_PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
 					"IMAGE_BULK": "fake",
 					"fileNames": [
-						"3.jpg",
+						"2.jpg",
 						"46.jpg",
 						"4.jpg",
 						"45.jpg"
