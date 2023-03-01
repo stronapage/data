@@ -8,7 +8,7 @@
 			{
 				"SERVER": {
 					"IMAGE_PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
-					"IMAGE_BULK": "fake",
+					"IMAGE_BULK": "faker",
 					"fileNames": [
 						"3.jpg",
 						"36.jpg",
@@ -18,7 +18,7 @@
 				},
 				"SUMMARY": {
 					"ORDER": 0,
-					"IMAGE_WIDTH": 527,
+					"IMAGE_WIDTH": 27,
 					"THUMBNAIL": 2,
 					"CAPTION1": "Praesent ut luctus turpis Mućka 3",
 					"CAPTION2": "Quis pulvinar Mućka"
