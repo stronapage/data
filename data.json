@@ -11,7 +11,7 @@
 					"IMAGE_BULK": "fake",
 					"fileNames": [
 						"2.jpg",
-						"46.jpg",
+						"36.jpg",
 						"4.jpg",
 						"44.jpg"
 					]
@@ -41,7 +41,7 @@
 				},
 				"SUMMARY": {
 					"ORDER": 1,
-					"IMAGE_WIDTH": 623,
+					"IMAGE_WIDTH": 62,
 					"THUMBNAIL": 0,
 					"CAPTION1": "Proin a facilisis augue",
 					"CAPTION2": "Nullam quis"
