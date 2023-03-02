@@ -8,7 +8,7 @@
 			{
 				"SERVER": {
 					"IMAGE_PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
-					"IMAGE_BULK": "fakedrex12",
+					"IMAGE_BULK": "fake",
 					"fileNames": [
 						"3.jpg",
 						"36.jpg",
