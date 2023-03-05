@@ -101,7 +101,7 @@
 	},
 	"intro": {
 		"general_data": {
-			"GLOBAL_IMAGE_WIDTH": 300
+			"GLOBAL_IMAGE_WIDTH": 0
 		},
 		"items": [
 			{
