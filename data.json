@@ -7,7 +7,7 @@
 		"items": [
 			{
 				"SERVER": {
-					"IMAGE_PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
+					"IMAGE_PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_x",
 					"IMAGE_BULK": "fake",
 					"fileNames": [
 						"21.jpg",
