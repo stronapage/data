@@ -129,9 +129,9 @@
 					]
 				},
 				"SUMMARY": {
-					"ORDER": 1,
+					"ORDER": 3,
 					"IMAGE_WIDTH": 1100,
-					"CAPTION1": "Duis nec tincidunt nibh",
+					"CAPTION1": "13Duis nec tincidunt nibh",
 					"CAPTION2": "Quis posuere",
 					"GRADIENT": "340deg, rgba(22, 12, 55, 0.2) 0%, rgba(9, 9, 71, 0.4) 47%, rgba(9, 1, 22, 0.9) 100%"
 				}
@@ -161,9 +161,9 @@
 					]
 				},
 				"SUMMARY": {
-					"ORDER": 3,
+					"ORDER": 9,
 					"IMAGE_WIDTH": 1100,
-					"CAPTION1": "Duis nec tincidunt nibh",
+					"CAPTION1": "39Duis nec tincidunt nibh",
 					"CAPTION2": "Quis posuere",
 					"GRADIENT": "340deg, rgba(0, 212, 255, 0.2) 0%, rgba(9, 9, 121, 0.4) 47%, rgba(9, 1, 22, 0.9) 100%"
 				}
