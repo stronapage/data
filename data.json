@@ -10,7 +10,6 @@
 					"IMAGE_PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
 					"IMAGE_BULK": "fake",
 					"fileNames": [
-						"20.jpg",
 						"21.jpg",
 						"22.jpg",
 						"36.jpg",
@@ -21,7 +20,7 @@
 				"SUMMARY": {
 					"ORDER": 0,
 					"IMAGE_WIDTH": 287,
-					"THUMBNAIL": 5,
+					"THUMBNAIL": 1,
 					"CAPTION1": "Praesent ut luctus turpis Mućka 3",
 					"CAPTION2": "Quis pulvinar Mućka"
 				},
