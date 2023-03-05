@@ -109,7 +109,7 @@
 					"IMAGE_PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
 					"IMAGE_BULK": "fake",
 					"fileNames": [
-						"32.jpg"
+						"31.jpg"
 					]
 				},
 				"SUMMARY": {
@@ -117,7 +117,7 @@
 					"IMAGE_WIDTH": 1100,
 					"CAPTION1": "Duis nec tincidunt nibh",
 					"CAPTION2": "Quis posuere",
-					"GRADIENT": "20deg, rgba(0, 212, 255, 0.2) 0%, rgba(9, 9, 121, 0.4) 47%, rgba(9, 1, 22, 0.8) 100%"
+					"GRADIENT": "340deg, rgba(22, 12, 55, 0.2) 0%, rgba(9, 9, 71, 0.4) 47%, rgba(9, 1, 22, 0.9) 100%"
 				}
 			},
 			{
@@ -125,7 +125,7 @@
 					"IMAGE_PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
 					"IMAGE_BULK": "fake",
 					"fileNames": [
-						"31.jpg"
+						"32.jpg"
 					]
 				},
 				"SUMMARY": {
@@ -133,7 +133,7 @@
 					"IMAGE_WIDTH": 1100,
 					"CAPTION1": "Duis nec tincidunt nibh",
 					"CAPTION2": "Quis posuere",
-					"GRADIENT": "340deg, rgba(22, 12, 55, 0.2) 0%, rgba(9, 9, 71, 0.4) 47%, rgba(9, 1, 22, 0.9) 100%"
+					"GRADIENT": "20deg, rgba(0, 212, 255, 0.2) 0%, rgba(9, 9, 121, 0.4) 47%, rgba(9, 1, 22, 0.8) 100%"
 				}
 			},
 			{
