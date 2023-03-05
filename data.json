@@ -64,14 +64,14 @@
 				},
 				"SUMMARY": {
 					"ORDER": 2,
-					"IMAGE_WIDTH": 11,
+					"IMAGE_WIDTH": 222,
 					"THUMBNAIL": 0,
-					"CAPTION1": "Proin a facilisis augue2",
+					"CAPTION1": "Proin a facilisis augue",
 					"CAPTION2": "Nullam quis"
 				},
 				"PARTICULAR": {
 					"IMAGE_WIDTH": 269,
-					"HEADING": "First featurette heading 1",
+					"HEADING": "First featurette heading",
 					"TEXT": "Some great placeholder content 1 for the first featurette here. Imagine some exciting prose here."
 				}
 			},
