@@ -205,7 +205,7 @@
 	"about": {
 		"TITLE": "Facilis consequatur elige",
 		"TEXT1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis consequatur eligendi quisquam doloremque vero ex debitis veritatis placeat unde animi laborum sapiente illo possimus, commodi dignissimos obcaecati illum maiores corporis.",
-		"BOLD_TEXT": "Doloremque vero ex debitis veritatis?",
+		"BOLD_TEXT": "ADoloremque vero ex debitis veritatis?",
 		"TEXT2": "Lorem ipsum dolor sit amet consectetur architecto magni, dicta maxime laborum temporibus dolorem esse doloremque illo quas nisi enim molestias. Tempore ducimus molestiae in dolore enim.",
 		"IMAGE_WIDTH": 320,
 		"IMAGE_PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
@@ -215,7 +215,7 @@
 	"offer": {
 		"general_data": {
 			"GLOBAL_IMAGE_WIDTH": 320,
-			"TITLE": "Our Services",
+			"TITLE": "AOur Services",
 			"TEXT1": "Our Services Range From Initial Design To Deployment Anywhere Anytime",
 			"TEXT2": "Lorem ipsum dolor sit amet consectetur architecto magni, dicta maxime laborum temporibus dolorem esse doloremque illo quas nisi enim molestias. Tempore ducimus molestiae in dolore enim."
 		},
@@ -229,39 +229,7 @@
 					]
 				},
 				"SUMMARY": {
-					"ORDER": 50,
-					"IMAGE_WIDTH": "1100",
-					"CAPTION1": "First featurette heading.",
-					"CAPTION2": "It’ll blow your mind.",
-					"TEXT": "Some great placeholder content for the first featurette here. Imagine some exciting prose here."
-				}
-			},
-			{
-				"SERVER": {
-					"IMAGE_PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
-					"IMAGE_BULK": "fake",
-					"fileNames": [
-						"36.jpg"
-					]
-				},
-				"SUMMARY": {
-					"ORDER": 50,
-					"IMAGE_WIDTH": "1100",
-					"CAPTION1": "First featurette heading.",
-					"CAPTION2": "It’ll blow your mind.",
-					"TEXT": "Some great placeholder content for the first featurette here. Imagine some exciting prose here."
-				}
-			},
-			{
-				"SERVER": {
-					"IMAGE_PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
-					"IMAGE_BULK": "fake",
-					"fileNames": [
-						"37.jpg"
-					]
-				},
-				"SUMMARY": {
-					"ORDER": 50,
+					"ORDER": 0,
 					"IMAGE_WIDTH": "1100",
 					"CAPTION1": "First featurette heading.",
 					"CAPTION2": "It’ll blow your mind.",
@@ -277,7 +245,39 @@
 					]
 				},
 				"SUMMARY": {
-					"ORDER": 50,
+					"ORDER": 1,
+					"IMAGE_WIDTH": "1100",
+					"CAPTION1": "First featurette heading.",
+					"CAPTION2": "It’ll blow your mind.",
+					"TEXT": "Some great placeholder content for the first featurette here. Imagine some exciting prose here."
+				}
+			},
+			{
+				"SERVER": {
+					"IMAGE_PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
+					"IMAGE_BULK": "fake",
+					"fileNames": [
+						"37.jpg"
+					]
+				},
+				"SUMMARY": {
+					"ORDER": 2,
+					"IMAGE_WIDTH": "1100",
+					"CAPTION1": "First featurette heading.",
+					"CAPTION2": "It’ll blow your mind.",
+					"TEXT": "Some great placeholder content for the first featurette here. Imagine some exciting prose here."
+				}
+			},
+			{
+				"SERVER": {
+					"IMAGE_PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
+					"IMAGE_BULK": "fake",
+					"fileNames": [
+						"36.jpg"
+					]
+				},
+				"SUMMARY": {
+					"ORDER": 3,
 					"IMAGE_WIDTH": "1100",
 					"CAPTION1": "First featurette heading.",
 					"CAPTION2": "It’ll blow your mind.",
