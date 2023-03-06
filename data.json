@@ -204,9 +204,9 @@
 	},
 	"about": {
 		"TITLE": "Facilis consequatur elige",
-		"TEXT1": "ALorem ipsum dolor sit amet consectetur adipisicing elit. Facilis consequatur eligendi quisquam doloremque vero ex debitis veritatis placeat unde animi laborum sapiente illo possimus, commodi dignissimos obcaecati illum maiores corporis.",
-		"BOLD_TEXT": "ADoloremque vero ex debitis veritatis?",
-		"TEXT2": "ALorem ipsum dolor sit amet consectetur architecto magni, dicta maxime laborum temporibus dolorem esse doloremque illo quas nisi enim molestias. Tempore ducimus molestiae in dolore enim.",
+		"TEXT1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis consequatur eligendi quisquam doloremque vero ex debitis veritatis placeat unde animi laborum sapiente illo possimus, commodi dignissimos obcaecati illum maiores corporis.",
+		"BOLD_TEXT": "Doloremque vero ex debitis veritatis?",
+		"TEXT2": "Lorem ipsum dolor sit amet consectetur architecto magni, dicta maxime laborum temporibus dolorem esse doloremque illo quas nisi enim molestias. Tempore ducimus molestiae in dolore enim.",
 		"IMAGE_WIDTH": 320,
 		"IMAGE_PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
 		"IMAGE_BULK": "fake",
