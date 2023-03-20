@@ -34,30 +34,6 @@
 					"IMAGE_PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
 					"IMAGE_BULK": "fake",
 					"fileNames": [
-						"40.jpg",
-						"43.jpg",
-						"44.jpg",
-						"45.jpg"
-					]
-				},
-				"SUMMARY": {
-					"ORDER": 1,
-					"IMAGE_WIDTH": 287,
-					"THUMBNAIL": 0,
-					"CAPTION1": "Praesent ut luctus turpis Mućka 3101",
-					"CAPTION2": "Quis pulvinar Mućka"
-				},
-				"PARTICULAR": {
-					"IMAGE_WIDTH": 268,
-					"HEADING": "First featurette heading 0",
-					"TEXT": "Some great placeholder content 0 for the first featurette here. Imagine some exciting prose here. Mućka."
-				}
-			},
-			{
-				"SERVER": {
-					"IMAGE_PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
-					"IMAGE_BULK": "fake",
-					"fileNames": [
 						"24.jpg",
 						"22.jpg",
 						"36.jpg",
@@ -65,7 +41,7 @@
 					]
 				},
 				"SUMMARY": {
-					"ORDER": 2,
+					"ORDER": 1,
 					"IMAGE_WIDTH": 287,
 					"THUMBNAIL": 1,
 					"CAPTION1": "Praesent ut luctus turpis Mućka 3",
@@ -88,7 +64,7 @@
 					]
 				},
 				"SUMMARY": {
-					"ORDER": 3,
+					"ORDER": 2,
 					"IMAGE_WIDTH": 222,
 					"THUMBNAIL": 1,
 					"CAPTION1": "Proin a facilisis augue",
@@ -110,7 +86,7 @@
 					]
 				},
 				"SUMMARY": {
-					"ORDER": 4,
+					"ORDER": 3,
 					"IMAGE_WIDTH": 723,
 					"THUMBNAIL": 1,
 					"CAPTION1": "Duis nec tincidunt nibh",
