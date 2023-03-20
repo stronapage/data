@@ -10,37 +10,13 @@
 					"IMAGE_PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
 					"IMAGE_BULK": "fake",
 					"fileNames": [
-						"40.jpg",
-						"43.jpg",
-						"44.jpg",
-						"45.jpg"
-					]
-				},
-				"SUMMARY": {
-					"ORDER": 0,
-					"IMAGE_WIDTH": 287,
-					"THUMBNAIL": 0,
-					"CAPTION1": "Praesent ut luctus turpis Mućka 3101",
-					"CAPTION2": "Quis pulvinar Mućka"
-				},
-				"PARTICULAR": {
-					"IMAGE_WIDTH": 268,
-					"HEADING": "First featurette heading 0",
-					"TEXT": "Some great placeholder content 0 for the first featurette here. Imagine some exciting prose here. Mućka."
-				}
-			},
-			{
-				"SERVER": {
-					"IMAGE_PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
-					"IMAGE_BULK": "fake",
-					"fileNames": [
 						"7.jpg",
 						"6.jpg",
 						"5.jpg"
 					]
 				},
 				"SUMMARY": {
-					"ORDER": 1,
+					"ORDER": 0,
 					"IMAGE_WIDTH": 222,
 					"THUMBNAIL": 1,
 					"CAPTION1": "Proin a facilisis augue",
@@ -64,9 +40,9 @@
 					]
 				},
 				"SUMMARY": {
-					"ORDER": 2,
+					"ORDER": 1,
 					"IMAGE_WIDTH": 287,
-					"THUMBNAIL": 1,
+					"THUMBNAIL": 0,
 					"CAPTION1": "Praesent ut luctus turpis Mućka 3",
 					"CAPTION2": "Quis pulvinar Mućka"
 				},
@@ -74,6 +50,30 @@
 					"IMAGE_WIDTH": 268,
 					"HEADING": "First featurette heading 0",
 					"TEXT": "Some great placeholder content 0 for the first featurette here. Imagine some exciting prose here. AAB"
+				}
+			},
+			{
+				"SERVER": {
+					"IMAGE_PREFIX": "http://vps-67cf57a8.vps.ovh.net:8080/upload/w_",
+					"IMAGE_BULK": "fake",
+					"fileNames": [
+						"40.jpg",
+						"43.jpg",
+						"44.jpg",
+						"45.jpg"
+					]
+				},
+				"SUMMARY": {
+					"ORDER": 2,
+					"IMAGE_WIDTH": 287,
+					"THUMBNAIL": 0,
+					"CAPTION1": "Praesent ut luctus turpis Mućka 3101",
+					"CAPTION2": "Quis pulvinar Mućka"
+				},
+				"PARTICULAR": {
+					"IMAGE_WIDTH": 268,
+					"HEADING": "First featurette heading 0",
+					"TEXT": "Some great placeholder content 0 for the first featurette here. Imagine some exciting prose here. Mućka."
 				}
 			},
 			{
