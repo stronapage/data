@@ -143,7 +143,7 @@
 					"IMAGE_WIDTH": 1100,
 					"CAPTION1": "Duis nec tincidunt nibh",
 					"CAPTION2": "Quis posuere",
-					"GRADIENT": "340deg, rgba(22, 12, 55, 0.8) 0%, rgba(9, 9, 71, 0.3) 47%, rgba(9, 1, 22, 0.4) 100%"
+					"GRADIENT": "340deg, rgba(22, 12, 55, 1) 0%, rgba(9, 9, 71, 0.3) 47%, rgba(9, 1, 22, 0.4) 100%"
 				}
 			},
 			{
