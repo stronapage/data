@@ -44,7 +44,7 @@
 				"SUMMARY": {
 					"ORDER": 1,
 					"IMAGE_WIDTH": 222,
-					"THUMBNAIL": 0,
+					"THUMBNAIL": 1,
 					"CAPTION1": "Proin a facilisis augue",
 					"CAPTION2": "Nullam quis"
 				},
