@@ -8,7 +8,7 @@
 			{
 				"SERVER": {
 					"IMAGE_PREFIX": "http://188.68.247.11:8080/upload/w_",
-					"IMAGE_BULK": "fake3w",
+					"IMAGE_BULK": "fake",
 					"fileNames": [
 						"43.jpg",
 						"44.jpg",
